@@ -1,0 +1,52 @@
+.classes_title {
+    color: #234578;
+    margin-bottom: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+.dimensions_of_support {
+  height: 80vh;
+}
+
+.dimensions_of_support_parent{
+  overflow: auto;
+}
+
+.dimensions_of_support_classes_p {
+  color: #343536;
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.dimensions_of_support_icon {
+  color: #91b9f5;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.dimensions_of_support_dev_margin {
+  margin: 0px 5%;
+}
+
+.dimensions_of_support_dev {
+  height: 220px;
+  width: 30%;
+  text-align: center;
+  border: 1px solid #234578;
+  float: left;
+  padding: 2%;
+}
+
+.dimensions_of_support_dev:hover .classes_title {
+  color: #fff;
+}
+.dimensions_of_support_dev:hover .dimensions_of_support_classes_p {
+  color: #fff;
+}
+.dimensions_of_support_dev:hover .classes_p {
+  color: rgb(219, 218, 217);
+}
+.dimensions_of_support_a {
+  text-decoration: none;
+  color: #4481fd;
+  font-size: 20px;
+}

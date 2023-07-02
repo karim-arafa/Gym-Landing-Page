@@ -1,0 +1,43 @@
+.what_we_offer {
+    height: 80vh;
+  }
+  .what_we_offer_icon{
+    color: #6195ff;
+    font-size: 30px;
+    margin-bottom: 10px;
+    display: inline;
+    position: absolute;
+    top: 25px;
+    left: 20px;
+  }
+  .what_we_offer_dev_margin {
+    margin: 0px  5%;
+  }
+  .what_we_offer_dev {
+    width: 30%;
+    border: 1px solid #234578;
+    float: left;
+    padding: 25px 15px 25px 70px;
+    margin-bottom: 20px;
+  }
+  .what_we_offer_parent{
+    overflow: auto;
+  }
+  .what_we_offer_classes_title{
+    display: inline;
+    transition: 1s;
+  }
+  .what_we_offer_classes_p{
+    color: #343536;
+    font-size: 18px;
+    margin-top: 20px;
+    line-height: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .what_we_offer_dev:hover .what_we_offer_classes_title{
+      color: #fff;
+  }
+  .what_we_offer_dev:hover .what_we_offer_classes_p{
+    color: white;
+  }
+  

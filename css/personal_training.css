@@ -1,0 +1,74 @@
+.personal_training {
+    background-color: #020f1e;
+    height: 60vh;
+  }
+  
+  .personal_training_dev {
+    width: 50%;
+    float: left;
+  }
+
+.personal_training_parent{
+    overflow: auto;
+    padding: 120px 0;
+  }
+  
+  .personal_training_main_title {
+    text-align: left;
+    color: white;
+    font-size: 55px;
+    margin-top: -10px;
+  
+  }
+  
+  .personal_training_hr_line {
+    background-color: #1c405e;
+    width: 250px;
+    height: 5px;
+    margin-bottom: 50px;
+  }
+  .personal_training_p{
+    margin-bottom: 30px;
+    color: #fff;
+    font-size: 24px;
+    width: 80%;
+  }
+  .personal_training_span{
+    font-size: 18px;
+    font-family:'Times New Roman', Times, serif
+  }
+  .personal_training_icon{
+    margin-right: 5px;
+  }
+  .personal_training_icon_p{
+    color: white;
+    line-height: 30px;
+    width: 80%;
+  }
+  
+  .personal_training_img{
+    height: 60%;
+    width: 70%;
+    
+  }
+  .personal_training_ul{
+    text-align: center;
+  }
+  .personal_training_ul li{
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      background-color: white;
+      display: inline-block;
+      margin-right: 5px;
+      margin-top: 10px;
+  }
+  
+  .personal_training_ul li.active{
+    background-color: #337ee0;
+    
+  }
+  .personal_training_ul li:hover{
+    background-color: #337ee0;
+    
+  }

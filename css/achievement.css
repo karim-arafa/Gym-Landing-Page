@@ -1,0 +1,32 @@
+.achievement_parent{
+    overflow: auto;
+    position: relative;
+  }
+  
+  .achievement_dev{
+    width: 25%;
+    float: left;
+    text-align: center;
+    
+  }
+  .achievement {
+    background-image: url("/Images/steps.jpg");
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  .hero_content{
+    position: absolute;
+      top: 50%;
+      left : 50%;
+      transform: translate(-50% , -50%);
+  
+      text-align: center;
+  }
+  .achievement_p{
+    color: white;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }

@@ -1,0 +1,48 @@
+.testomonial_parent{
+    overflow: auto;
+    position: relative;
+    text-align: left;
+    padding: 120px 0;
+  }
+  
+  
+  .testomonial {
+    background-image: url("/Images/evegym.jpg");
+    height: 40vh;
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  .testomonial_dev{
+    float: left;
+    width: 50%;
+  }
+  .testomonial_user{
+    position: relative;
+    padding: 30px 10px 10px 110px
+  }
+  .testomonial_img{
+    position: absolute;
+    top: 20px;
+    left: 15px;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+  }
+  .testomonial_p{
+    margin-top: 30px;
+    padding-left: 20px;
+    font-size: 18px;
+    color: white;
+  }
+  .testomonial_p_title{
+    color: white;
+    font-size: 26px;
+  }
+  .testomonial_p_position{
+    color: white;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  
