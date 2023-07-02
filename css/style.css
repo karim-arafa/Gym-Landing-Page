@@ -8,6 +8,14 @@ body {
     height: 7200px ;
 }
 
+.testomonial {
+  background-image: url("/Images/evegym.jpg");
+  height: 40vh;
+  background-repeat: repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
 /* common */
 
 .container {

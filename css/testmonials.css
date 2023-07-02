@@ -6,13 +6,7 @@
   }
   
   
-  .testomonial {
-    background-image: url("/Images/evegym.jpg");
-    height: 40vh;
-    background-repeat: repeat;
-    background-size: cover;
-    background-attachment: fixed;
-  }
+
   
   .testomonial_dev{
     float: left;
