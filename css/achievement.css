@@ -10,7 +10,7 @@
     
   }
   .achievement {
-    background-image: url("/Images/steps.jpg");
+    background-image: url("../Images/steps.jpg");
     height: 40vh;
     background-repeat: no-repeat;
     background-size: cover;
